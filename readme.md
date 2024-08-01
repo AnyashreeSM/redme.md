@@ -1,2 +1,2 @@
 # demo
-subcrib!
+subcrib.
